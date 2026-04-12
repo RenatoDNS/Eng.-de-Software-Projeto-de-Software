@@ -31,8 +31,10 @@ Eng.-de-Software-Projeto-de-Software/
     │   └── Resenha_No_Silver_Bullet.pdf
     ├── Tarefa 4/
     │   └── Resenha_Criteria_For_Modularization.pdf
-    └── Tarefa 5/
-        └── Resenha_Design_Pattern_Facade.pdf
+    ├── Tarefa 5/
+    │   └── Resenha_Design_Pattern_Facade.pdf
+    └── Tarefa 6/
+        └── Resenha_Software_Architecture_a_Roadmap.pdf
 ```
 
 ### 📋 Descrição das Tarefas
@@ -44,3 +46,4 @@ Eng.-de-Software-Projeto-de-Software/
 | **Tarefa 3** | No Silver Bullet             | `Resenha_No_Silver_Bullet.pdf`            |
 | **Tarefa 4** | Critérios para Modularização | `Resenha_Criteria_For_Modularization.pdf` |
 | **Tarefa 5** | Padrão de Design - Facade    | `Resenha_Design_Pattern_Facade.pdf`       |
+| **Tarefa 6** | Arquitetura de Software: Um Roadmap | `Resenha_Software_Architecture_a_Roadmap.pdf`|
