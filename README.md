@@ -37,8 +37,10 @@ Eng.-de-Software-Projeto-de-Software/
     │   └── Resenha_Software_Architecture_a_Roadmap.pdf
     ├── Tarefa 7/
     │   └── Resenha_Model_Context_Protocol.pdf
-    └── Tarefa 8/
-        └── Resenha_The_Hexagonal_Architecture.pdf
+    ├── Tarefa 8/
+    │   └── Resenha_The_Hexagonal_Architecture.pdf
+    └── Tarefa 9/
+        └── Resenha_Object_Constraint_Language.pdf
 ```
 
 ### 📋 Descrição das Tarefas
@@ -53,3 +55,4 @@ Eng.-de-Software-Projeto-de-Software/
 | **Tarefa 6** | Arquitetura de Software: Um Roadmap | [Resenha_Software_Architecture_a_Roadmap.pdf](Tarefas/Tarefa%206/Resenha_Software_Architecture_a_Roadmap.pdf) |
 | **Tarefa 7** | Model Context Protocol (MCP)        | [Resenha_Model_Context_Protocol.pdf](Tarefas/Tarefa%207/Resenha_Model_Context_Protocol.pdf)                   |
 | **Tarefa 8** | The Hexagonal (Ports & Adapters) Architecture | [Resenha_The_Hexagonal_Architecture.pdf](Tarefas/Tarefa%208/Resenha_The_Hexagonal_Architecture.pdf) |
+| **Tarefa 9** | Object Constraint Language (OCL)    | [Resenha_Object_Constraint_Language.pdf](Tarefas/Tarefa%209/Resenha_Object_Constraint_Language.pdf)           |
