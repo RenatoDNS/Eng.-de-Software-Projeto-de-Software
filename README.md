@@ -39,8 +39,10 @@ Eng.-de-Software-Projeto-de-Software/
     │   └── Resenha_Model_Context_Protocol.pdf
     ├── Tarefa 8/
     │   └── Resenha_The_Hexagonal_Architecture.pdf
-    └── Tarefa 9/
-        └── Resenha_Object_Constraint_Language.pdf
+    ├── Tarefa 9/
+    │   └── Resenha_Object_Constraint_Language.pdf
+    └── Tarefa 10/
+        └── Resenha_Design_by_Contract.pdf
 ```
 
 ### 📋 Descrição das Tarefas
@@ -56,3 +58,4 @@ Eng.-de-Software-Projeto-de-Software/
 | **Tarefa 7** | Model Context Protocol (MCP)        | [Resenha_Model_Context_Protocol.pdf](Tarefas/Tarefa%207/Resenha_Model_Context_Protocol.pdf)                   |
 | **Tarefa 8** | The Hexagonal (Ports & Adapters) Architecture | [Resenha_The_Hexagonal_Architecture.pdf](Tarefas/Tarefa%208/Resenha_The_Hexagonal_Architecture.pdf) |
 | **Tarefa 9** | Object Constraint Language (OCL)    | [Resenha_Object_Constraint_Language.pdf](Tarefas/Tarefa%209/Resenha_Object_Constraint_Language.pdf)           |
+| **Tarefa 10** | Design by Contract                 | [Resenha_Design_by_Contract.pdf](Tarefas/Tarefa%2010/Resenha_Design_by_Contract.pdf)                          |
